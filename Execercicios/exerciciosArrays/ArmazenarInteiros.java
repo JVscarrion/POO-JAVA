@@ -19,7 +19,6 @@ public class ArmazenarInteiros
                 quantidadePositivos++;
             }
         }
-
         JOptionPane.showMessageDialog(null, "Quantidade de números positivos: "+quantidadePositivos+
                                                                     "\n Quantidade de números negativos: "+quantidadeNegativos);
         System.exit(0); // encerra o programa
